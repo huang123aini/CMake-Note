@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDynamicLib.a  CMakeFiles/DynamicLib.dir/src/TestClass.cpp.o
+/usr/bin/ranlib libDynamicLib.a

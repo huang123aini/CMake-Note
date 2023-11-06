@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src_libB/TestClassB.h
+iostream
+-
+
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/generate_lib/库依赖关系传递/public/main.cpp
+TestClassB.h
+-
+iostream
+-
+

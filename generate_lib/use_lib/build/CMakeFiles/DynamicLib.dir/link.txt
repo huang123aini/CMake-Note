@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libDynamicLib.so -o libDynamicLib.so CMakeFiles/DynamicLib.dir/src/TestClass.cpp.o 

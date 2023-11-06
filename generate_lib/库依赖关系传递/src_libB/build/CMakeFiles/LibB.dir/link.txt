@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libLibB.so -o libLibB.so CMakeFiles/LibB.dir/TestClassB.cpp.o   -L"/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/generate_lib/库依赖关系传递/public/src_libB/../src_libA/build"  -Wl,-rpath,"/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/generate_lib/库依赖关系传递/public/src_libB/../src_libA/build" -lLibA 

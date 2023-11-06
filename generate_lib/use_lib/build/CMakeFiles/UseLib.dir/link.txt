@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/UseLib.dir/main.cpp.o  -o UseLib   -L"/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/generate_lib/use_lib/build"  -Wl,-rpath,"/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/generate_lib/use_lib/build" libDynamicLib.so 

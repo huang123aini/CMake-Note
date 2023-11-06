@@ -1,0 +1,4 @@
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/generate_lib/use_lib/build/CMakeFiles/rebuild_cache.dir
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/generate_lib/use_lib/build/CMakeFiles/edit_cache.dir
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/generate_lib/use_lib/build/CMakeFiles/UseLib.dir
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/generate_lib/use_lib/build/CMakeFiles/DynamicLib.dir
