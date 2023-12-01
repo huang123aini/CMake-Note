@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/TestCURL.dir/main.cpp.o  -o TestCURL  /usr/lib/x86_64-linux-gnu/libcurl.so 

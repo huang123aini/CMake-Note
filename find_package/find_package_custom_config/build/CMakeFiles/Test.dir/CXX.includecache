@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libA/install/include/TestClassA.h
+iostream
+-
+
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/find_package/find_package_custom_config/main.cpp
+TestClassA.h
+-
+iostream
+-
+

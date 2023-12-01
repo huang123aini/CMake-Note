@@ -1,0 +1,6 @@
+
+#设置变量 LibA_FOUND & LibA_INCLUDE_DIR & LibA_LIBRARIES
+
+set(LibA_FOUND true)
+set(LibA_INCLUDE_DIR ${PROJECT_SOURCE_DIR}/libA/include/)
+set(LibA_LIBRARIES_DIR ${PROJECT_SOURCE_DIR}/libA/lib/)

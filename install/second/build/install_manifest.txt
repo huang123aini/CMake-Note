@@ -1,0 +1,3 @@
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/install/second/lib/libLibA.so
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/install/second/lib/libLibB.a
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/install/second/bin/Test

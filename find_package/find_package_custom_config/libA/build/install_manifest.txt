@@ -1,0 +1,4 @@
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/find_package/find_package_custom_config/libA/install/lib/libLibA.so
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/find_package/find_package_custom_config/libA/install/include/TestClassA.h
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/find_package/find_package_custom_config/libA/install/lib/cmake/LibA/LibAConfig.cmake
+/home/lixiang/Documents/hsp/WorkNotes/CMake Demo/find_package/find_package_custom_config/libA/install/lib/cmake/LibA/LibAConfig-noconfig.cmake
